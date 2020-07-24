@@ -1,3 +1,9 @@
 # Introduction to Java
+public class Demo
+{
+public static void main (String []args)
+{
+System.out.println("Hello world");
+}
+}
 
-This your copy of the code for the java-course. The course itself is located in the issues of this repository.
